@@ -1,0 +1,4 @@
+{"type":"LOGIN","user_id":1,"created":1594321502812}
+{"type":"LOGIN FAILED","created":1594321560734}
+{"type":"LOGIN","user_id":1,"created":1593717637210}
+{"type":"SESSION TIMEOUT","user_id":1,"created":1593717637213}
